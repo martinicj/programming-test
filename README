@@ -1,9 +1,13 @@
-Background
+Background & Guidelines
 ---------------------
 The file input.csv contains example student records from an ERP system, which is
 the authoritative source of student data.  The file students.db is a SQLite
 database that contains a set of student records.  The database needs to be
-reconciled with the input from the ERP. 
+reconciled with the input from the ERP.
+
+You may use external sources (books, forums posts, etc.) to complete this task.
+You may not seek help from another person or persons to do the work for you
+or assist directly with the task.
 
 
 Requirements
