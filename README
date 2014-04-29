@@ -17,10 +17,10 @@ database accurately reflects the data changes in input.csv.  Any records present
 in input.csv that are missing from the database should be inserted, and any
 records in the database that are not present in the csv file, should be removed.
 All records should be keyed on ID number. It is not necessary to update any
-records with changed attributes. All attributes are required, and any record with
-missing or empty fields should be considered malformed. Malformed records should
-generate an exception, but should not halt the task. All updates should be logged
-to an easily parsed log file.
+records with changed attributes. All attributes are required, and any record
+with missing or empty fields should be considered malformed. Malformed records
+should generate an exception, but should not halt the task. All updates should
+be logged to an easily parsed log file.
 
 
 Language choice
